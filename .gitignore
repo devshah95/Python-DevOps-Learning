@@ -1,27 +1,25 @@
-# Python virtual environments
-.venv/
-.venv2/
-venv/
-env/
-
-# Python bytecode
+# Python
 __pycache__/
 *.py[cod]
 *$py.class
 *.so
 
-# Jupyter Notebook
+# Virtual environments (just in case)
+.venv/
+venv/
+env/
+
+# Jupyter
 .ipynb_checkpoints
 
 # Environment variables
 .env
 
-# IDE settings
+# IDE
 .vscode/
 .idea/
 *.swp
-*.swo
 
-# OS files
+# OS
 .DS_Store
 Thumbs.db
